@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Jupyter notebook, titled "clustering3", is focused on the exploration of advanced clustering techniques and outlier detection methods. It aims to demonstrate the application of various algorithms for identifying patterns and anomalies within datasets, thereby facilitating a deeper understanding of the underlying data structures.
+This Jupyter notebook, titled "clustering", is focused on the exploration of advanced clustering techniques and outlier detection methods. It aims to demonstrate the application of various algorithms for identifying patterns and anomalies within datasets, thereby facilitating a deeper understanding of the underlying data structures.
 
 ## Purpose
 
