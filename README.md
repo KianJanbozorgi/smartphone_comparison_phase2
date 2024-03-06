@@ -53,6 +53,8 @@ The notebook serves to:
 - `ModelTrainer` class: A utility for training and evaluating machine learning models.
 - Custom functions for data preprocessing and evaluation
 
+# Regression Analysis Notebook
+
 ## Overview
 
 This Jupyter notebook, titled "regression", focuses on comprehensive regression analysis, including pre-processing, feature engineering, and the application of various regression models. The notebook aims to demonstrate effective strategies for predicting continuous outcomes based on given features.
